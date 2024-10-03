@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio - Technical Designer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 20px auto;
+            padding: 0 20px;
+        }
+        section {
+            margin-bottom: 40px;
+        }
+        h2 {
+            color: #333;
+            margin-bottom: 10px;
+        }
+        .projects-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+        }
+        .project-item {
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .project-item h3 {
+            margin-top: 0;
+        }
+        .contact-info {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        .contact-info a {
+            color: #fff;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Portfolio - Technical Designer</h1>
+</header>
+
+<div class="container">
+
+    <section id="about">
+        <h2>O mnie</h2>
+        <p>Cześć! Jestem Technical Designerem z pasją do tworzenia gier wideo. Specjalizuję się w projektowaniu mechanik gry i optymalizacji procesów produkcyjnych. Mam doświadczenie w pracy z silnikami takimi jak Unity i Unreal Engine.</p>
+    </section>
+
+    <section id="projects">
+        <h2>Projekty</h2>
+        <div class="projects-grid">
+            <div class="project-item">
+                <h3>Projekt 1: Gra Akcji</h3>
+                <p>Krótki opis projektu, nad którym pracowałeś. Możesz dodać linki do gry lub repozytorium.</p>
+                <a href="#">Zobacz więcej</a>
+            </div>
+            <div class="project-item">
+                <h3>Projekt 2: Gra Logiczna</h3>
+                <p>Krótki opis projektu. Możesz dodać obrazki, filmiki lub demo projektu.</p>
+                <a href="#">Zobacz więcej</a>
+            </div>
+            <!-- Dodaj więcej projektów według potrzeby -->
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Kontakt</h2>
+        <p>Jeśli chcesz się ze mną skontaktować, napisz na: <a href="mailto:twojemail@domena.com">twojemail@domena.com</a></p>
+    </section>
+
+</div>
+
+<footer class="contact-info">
+    <p>&copy; 2024 Portfolio - Technical Designer | Wszystkie prawa zastrzeżone.</p>
+</footer>
+
+</body>
+</html>
