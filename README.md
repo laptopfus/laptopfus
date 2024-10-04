@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @laptopfus
-- 👀 I’m interested in Video games and RPG
-- 🌱 I’m currently learning C sharp
-- 💞️ I’m looking to collaborate on Anything games related
-- 📫 How to reach me .laptopfus@gmail.com
+Hi, 
+
+My name is Paweł Książek and this is my GitHub space. My nickname that most of my friends is Laptop :-D
+
+I’m a game developer who originally started in Poland but now I work in Ubisoft Annecy. Currently I am learning C sharp and having fun in Unreal 5 because professionaly I have always worked in different engines. 
+I’m looking to collaborate on Anything games-related. My specialization in game dev is Technical Desing but I started as Level Designer. 
+
+You can reach me by email: laptopfus@gmail.com
+
+Cheers,
+
+Laptop
 
 <!---
 laptopfus/laptopfus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
